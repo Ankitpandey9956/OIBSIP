@@ -1,7 +1,7 @@
 # OIBSIP
-# 📊 Data Analytics & Machine Learning Projects
+# 📊 Data Analytics
 
-This repository contains a collection of **Data Analytics and Machine Learning projects** completed as part of my learning and practical experience. The projects cover important stages of the data science workflow, including **data cleaning, exploratory data analysis (EDA), visualization, preprocessing, and machine learning model development**.
+This repository contains a collection of **Data Analytics  projects** completed as part of my learning and practical experience. The projects cover important stages of the data science workflow, including **data cleaning, exploratory data analysis (EDA), visualization, preprocessing, and machine learning model development**.
 
 ---
 
